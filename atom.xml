@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://blog.liupurui.com/atom.xml" rel="self"/>
+  
+  <link href="http://blog.liupurui.com/"/>
+  <updated>2023-03-02T17:19:03.772Z</updated>
+  <id>http://blog.liupurui.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试下文章功能</title>
+    <link href="http://blog.liupurui.com/2023/03/03/ce-shi-xia-wen-zhang-gong-neng/"/>
+    <id>http://blog.liupurui.com/2023/03/03/ce-shi-xia-wen-zhang-gong-neng/</id>
+    <published>2023-03-02T17:15:15.000Z</published>
+    <updated>2023-03-02T17:19:03.772Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;pupu-love-jingBao&quot;&gt;&lt;a href=&quot;#pupu-love-jingBao&quot; class=&quot;headerlink&quot; title=&quot;pupu love jingBao&quot;&gt;&lt;/a&gt;pupu love</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="http://blog.liupurui.com/categories/hexo/"/>
+    
+    
+    <category term="笔记功能" scheme="http://blog.liupurui.com/tags/%E7%AC%94%E8%AE%B0%E5%8A%9F%E8%83%BD/"/>
+    
+    <category term="hexo" scheme="http://blog.liupurui.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.liupurui.com/2023/03/02/hello-world/"/>
+    <id>http://blog.liupurui.com/2023/03/02/hello-world/</id>
+    <published>2023-03-02T08:40:02.627Z</published>
+    <updated>2023-03-02T08:40:02.627Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
