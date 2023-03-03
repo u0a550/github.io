@@ -6,7 +6,7 @@
   <link href="http://blog.liupurui.com/atom.xml" rel="self"/>
   
   <link href="http://blog.liupurui.com/"/>
-  <updated>2023-03-02T17:19:03.772Z</updated>
+  <updated>2023-03-03T02:29:27.926Z</updated>
   <id>http://blog.liupurui.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://blog.liupurui.com/2023/03/03/test/"/>
+    <id>http://blog.liupurui.com/2023/03/03/test/</id>
+    <published>2023-03-03T02:29:27.000Z</published>
+    <updated>2023-03-03T02:29:27.926Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>测试下文章功能</title>
