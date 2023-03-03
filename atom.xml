@@ -6,7 +6,7 @@
   <link href="http://blog.liupurui.com/atom.xml" rel="self"/>
   
   <link href="http://blog.liupurui.com/"/>
-  <updated>2023-03-03T04:13:05.554Z</updated>
+  <updated>2023-03-03T04:59:45.133Z</updated>
   <id>http://blog.liupurui.com/</id>
   
   <author>
@@ -17,12 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://blog.liupurui.com/2023/03/03/test/"/>
-    <id>http://blog.liupurui.com/2023/03/03/test/</id>
-    <published>2023-03-03T02:29:27.000Z</published>
-    <updated>2023-03-03T04:13:05.554Z</updated>
+    <title>Hello World</title>
+    <link href="http://blog.liupurui.com/2023/03/03/hello-world/"/>
+    <id>http://blog.liupurui.com/2023/03/03/hello-world/</id>
+    <published>2023-03-03T04:59:45.133Z</published>
+    <updated>2023-03-03T04:59:45.133Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
     
     
     
@@ -34,7 +42,7 @@
     <link href="http://blog.liupurui.com/2023/03/03/ce-shi-xia-wen-zhang-gong-neng/"/>
     <id>http://blog.liupurui.com/2023/03/03/ce-shi-xia-wen-zhang-gong-neng/</id>
     <published>2023-03-02T17:15:15.000Z</published>
-    <updated>2023-03-02T17:19:03.772Z</updated>
+    <updated>2023-03-03T04:59:27.945Z</updated>
     
     
       
@@ -53,27 +61,6 @@
     <category term="笔记功能" scheme="http://blog.liupurui.com/tags/%E7%AC%94%E8%AE%B0%E5%8A%9F%E8%83%BD/"/>
     
     <category term="hexo" scheme="http://blog.liupurui.com/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://blog.liupurui.com/2023/03/02/hello-world/"/>
-    <id>http://blog.liupurui.com/2023/03/02/hello-world/</id>
-    <published>2023-03-02T08:40:02.627Z</published>
-    <updated>2023-03-02T08:40:02.627Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
